@@ -2,6 +2,8 @@
 
 Tic-tac-toe for Windows. The opponent learns a Q-value for every legal board, then plays the best move.
 
+![XO game window](images/xo.png)
+
 Training covers 4,520 positions and finishes in a fraction of a second. Careful play ends in a draw. A mistake that gives away the game is punished.
 
 ## Run
