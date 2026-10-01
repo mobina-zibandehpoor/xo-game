@@ -1,6 +1,6 @@
 # XO
 
-Tic-tac-toe for Windows. The opponent learns a Q-value for every legal board, then plays the best move.
+Tic-tac-toe (XO) for Windows. The opponent learns a Q-value for every legal board, then plays the best move.
 
 ![XO game window](images/xo.png)
 
